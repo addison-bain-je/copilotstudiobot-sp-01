@@ -6,4 +6,6 @@ German (Germany) (de-DE)
 Secondary language
 English (United States) (en-US)
 
+Content Moderation: Medium
+
 Deployed as MS Teams Chatbot or Embedded in Power App
